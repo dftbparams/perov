@@ -1,4 +1,4 @@
-# Parameter set perov-1-1
+# Parameter set perov-1-0
 
 Density Functional Tight Binding (DFTB) parameter set describing the electronic structure of certain perovskite systems.
 
