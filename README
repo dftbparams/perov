@@ -80,7 +80,7 @@ NOTABENE: NO REPULSIVE potential is provided; there is a dummy spline only.
 Relevant publications
 =====================
 
-[JJ24] J. Jiang et al., arXiv preprint, arXiv:2412.07016, (2024).
+[PRMat25] J. Jiang et al., Phys. Rev. Materials 9, 023803 (2025).
 
 [JCTC13] M. Wahiduzzaman et al., J. Chem. Theory Comput. 9, 9, 4006 (2013).
 
@@ -91,7 +91,7 @@ Th. Frauenheim, S. Suhai, and G. Seifert, Phys. Rev. B 58, 7260 (1998).
 Required references
 ===================
 
-H,C,N - H,C,N:      [JJ24,PRB98]
-H,C,N,I,Cs,Pb - I:  [JJ24]
-H,C,N,I,Cs,Pb - Cs: [JJ24,JCTC13]
-H,C,N,I,Cs,Pb - Pb: [JJ24]
+H,C,N - H,C,N:      [PRMat25,PRB98]
+H,C,N,I,Cs,Pb - I:  [PRMat25]
+H,C,N,I,Cs,Pb - Cs: [PRMat25,JCTC13]
+H,C,N,I,Cs,Pb - Pb: [PRMat25]
